@@ -1,1 +1,1 @@
-# This folder conatins html files
+# This folder contains html files
