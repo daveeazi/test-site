@@ -1,5 +1,9 @@
 # Portfolio Website
 
+```
+NOTE - PAGE CURRENTLY UNDER REBUILD LINK MIGHT NOT WORK
+```
+
 ### Description
 This is a preview of my personal website using HTML, CSS and JAVASCRIPT.
 
