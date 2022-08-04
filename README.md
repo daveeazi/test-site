@@ -1,12 +1,16 @@
 # Portfolio Website
 
+```
+NOTE - PAGE CURRENTLY UNDER REBUILD LINK MIGHT NOT WORK
+```
+
 ### Description
 This is a preview of my personal website using HTML, CSS and JAVASCRIPT.
 
 ### Built with
 * HTML
 * CSS
-* JSVASCRIPT
+* JAVASCRIPT
 * ATOM 
 
 ### Procedure to clone project
