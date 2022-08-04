@@ -1,5 +1,5 @@
 body{
-  background-color: #F5EDDC;
+  background-color: #FEFECC;
 }
 
 hr {
@@ -9,11 +9,24 @@ hr {
   border-color: grey;
   width: 10%;
 }
-
+/*
+img{
+  background-color: blue;
+}
+*/
 h1 {
   color: #006400;
+  font-size: 50px;
 }
 
 h3{
   color: #6B8E23;
 }
+/*------------- Using class selector-----------------
+.tel{
+  background-color: yellow;
+}
+.tel2{
+  background-color: white;
+}
+*/
