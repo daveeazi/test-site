@@ -14,14 +14,27 @@ img{
   background-color: blue;
 }
 */
-h1 {
+h1: {
   color: #006400;
-  font-size: 50px;
+  font-size: 100px;
 }
+
 
 h3{
   color: #6B8E23;
 }
+
+.name{
+  font-size: 50px;
+  color: #006400;
+}
+
+.name:hover{
+  font-size: 50px;
+  color: black;
+  background-color: orange;
+}
+
 /*------------- Using class selector-----------------
 .tel{
   background-color: yellow;
@@ -30,3 +43,9 @@ h3{
   background-color: white;
 }
 */
+
+
+/*            Using the id selector         */
+/**  #name{
+       color: black;
+}*/
