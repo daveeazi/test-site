@@ -35,6 +35,11 @@ h3{
   background-color: orange;
 }
 
+.me{
+  width: 285px;
+  height: 285px;
+}
+
 /*------------- Using class selector-----------------
 .tel{
   background-color: yellow;
