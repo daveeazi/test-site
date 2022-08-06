@@ -1,28 +1,29 @@
-# Portfolio Website
+# **This is a practice project**
 
-```
+````
+Portfolio Website
+
 NOTE - PAGE CURRENTLY UNDER REBUILD LINK MIGHT NOT WORK
-```
 
-### Description
+Description
 This is a preview of my personal website using HTML, CSS and JAVASCRIPT.
 
-### Built with
+Built with
 * HTML
 * CSS
 * JAVASCRIPT
 * ATOM 
 
-### Procedure to clone project
+Procedure to clone project
 * Open your terminal
-* Type git clone https://github.com/daveeazi/portfolio_website.git
-* Type cd portfolio_website to change directory to the folder of the project
+* Type git clone https://github.com/daveeazi/test-site.git
+* Type cd test-site to change directory to the folder of the project
 * Run the project in your local machine
 
-### Project link
-[My Porfolio Website](https://daveeazi.github.io/portfolio_website/index.html)
-
-### 👤 **Author**
+Project link
+My Porfolio Website - https://daveeazi.github.io/test-site/index.html
+````
+Author
 
 * [GitHub](https://github.com/daveeazi)
 * [Twitter](https://twitter.com/iamdaveeazi)
