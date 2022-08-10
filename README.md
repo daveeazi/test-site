@@ -29,7 +29,7 @@ Author
 * [Twitter](https://twitter.com/iamdaveeazi)
 * [LinkedIn](https://www.linkedin.com/in/david-atat/)
 
-### Contributing
+### Contributing 
 
 Contributions, issues, and feature requests are welcome!
 
